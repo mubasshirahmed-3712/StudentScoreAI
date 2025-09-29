@@ -1,0 +1,13 @@
+{
+  "LinearRegression": {
+    "MAE": 0.88,
+    "RMSE": 1.0711,
+    "R2": 0.9501
+  },
+  "DecisionTree": {
+    "MAE": 1.047,
+    "RMSE": 1.2501,
+    "R2": 0.9321
+  },
+  "best_model": "LinearRegression"
+}
